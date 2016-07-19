@@ -1,0 +1,13 @@
+Package: hmk
+Title: Use the cancer data
+Version: 0.0.0.1
+Authors@R: person("Maria", "K", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Read the data and read the Rmd from the course
+Depends:
+    R (>= 3.2.4)
+License: CC0
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
